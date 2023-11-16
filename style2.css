@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,700&display=swap');
+/* Reset some default browser styles */
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color for the whole page */
+body {
+    background-color: #f4e1d2;
+    font-family: 'Josefin Sans', Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #5e4630;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+header p {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav li {
+    display: block;
+    margin: 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+}
+
+.shadow-line {
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Style the featured categories section */
+.featured-categories {
+    text-align: center;
+    margin: 20px 0;
+    margin-bottom: 4.5rem;
+}
+
+.category {
+    display: inline-block;
+    margin: 10px;
+}
+
+.category img {
+    max-width: 100%;
+    height: auto;
+}
+
+.category h3 {
+    font-size: 2rem;
+    color: #5e4630;
+}
+
+/* Style the container for the image and overlay */
+.category {
+    position: relative;
+}
+
+.image-container {
+    overflow: hidden;
+    position: relative;
+}
+
+/* Apply a filter to the image by default */
+.category-image {
+    max-width: 100%;
+    transition: filter 0.3s ease;
+}
+
+/* When hovering over the .category-link, remove the filter and show the overlay */
+.category-link:hover .category-image {
+    filter: none;
+}
+
+/* Style the overlay text */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    background: rgba(226, 194, 166, 0.6);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+/* When hovering over the .category-link, make the overlay text visible */
+.category-link:hover .overlay {
+    opacity: 1;
+}
+
+/* Style the footer */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #5e4630;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+a:hover {
+    color: #8a6752;
+}
