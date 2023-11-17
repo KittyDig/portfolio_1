@@ -122,6 +122,27 @@ nav a {
     opacity: 1;
 }
 
+/* Style the blogposts */
+.blogs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+    max-height: 500px;
+    padding: 20px;
+}
+
+.blog-post {
+    text-align: center;
+    max-width: 300px;
+    margin-bottom: 2rem;
+}
+
+.blog-post img {
+    width: 100%;
+    height: auto;
+}
+
 /* Style the footer */
 footer {
     position: fixed;
