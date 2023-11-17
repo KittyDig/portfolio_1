@@ -148,10 +148,18 @@ nav a {
     margin-top: 4.5rem;
 }
 
+
+
 .blog-post {
     text-align: center;
-    max-width: 300px;
+    max-width: 100%;
     margin-bottom: 2rem;
+}
+
+@media (min-width: 800px) {
+    .blog-post {
+        max-width: 40%;
+    }
 }
 
 .blog-post img {
