@@ -17,11 +17,25 @@ h2 {
     padding-top: 2rem;
 }
 
+h3 {
+    text-align: center;
+}
+
 /* Set a background color for the whole page */
 body {
     background-color: #f4e1d2;
     font-family: 'Josefin Sans', Arial, sans-serif;
     margin-top: 70px;
+}
+
+section p {
+    margin-bottom: 1rem;
+}
+
+.aboutUs {
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+    margin-bottom: 5rem;
 }
 
 /* Style the header */
