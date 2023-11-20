@@ -12,6 +12,11 @@ a {
     padding: 0;
 }
 
+h2 {
+    text-align: center;
+    padding-top: 2rem;
+}
+
 /* Set a background color for the whole page */
 body {
     background-color: #f4e1d2;
@@ -152,10 +157,8 @@ nav a {
     overflow-y: auto;
     max-height: 100%;
     padding: 20px;
-    margin-top: 4.5rem;
+    margin-top: 1rem;
 }
-
-
 
 .blog-post {
     text-align: center;
@@ -172,6 +175,24 @@ nav a {
 .blog-post img {
     width: 100%;
     height: auto;
+}
+
+/* Style the form */
+form {
+    text-align: center;
+}
+
+button[type="submit"] {
+    background-color: #5e4630;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+button[type="submit"]:hover {
+    background-color: #8a6752;
 }
 
 /* Style the footer */
