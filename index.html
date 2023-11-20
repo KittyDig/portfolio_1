@@ -15,7 +15,7 @@
         <p>Your Source for Mindfulness and Self-Improvement Techniques</p>
     </header>
 <div class="shadow-line"></div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
         <a class="navbar-brand" href="#"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,6 +26,9 @@
                 <li class="nav-item active">
                     <a class="nav-link" href="pages/categories.html">Explore Techniques <span
                             class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="pages/getInvolved.html">Get Involved</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="pages/about.html">About Us</a>
@@ -83,7 +86,22 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script>
+        window.onscroll = function () {
+            stickyNavbar();
+        };
 
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+
+        function stickyNavbar() {
+            if (window.pageYOffset >= sticky) {
+                navbar.classList.add("fixed-top");
+            } else {
+                navbar.classList.remove("fixed-top");
+            }
+        }
+    </script>
 </body>
 
 </html>
