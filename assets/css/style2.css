@@ -124,6 +124,7 @@ nav a {
 /* Style the container for the image and overlay */
 .category {
     position: relative;
+    width: 80%;
 }
 
 .image-container {
