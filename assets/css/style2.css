@@ -164,11 +164,6 @@ nav a {
     opacity: 1;
 }
 
-.category-link:hover .category-image,
-.category-link.touch .category-image {
-    filter: none;
-}
-
 /* Style the blogposts */
 .blogs {
     display: flex;
@@ -189,6 +184,10 @@ nav a {
 .category-links, .category-links:hover {
     text-decoration: none;
     color: #000;
+}
+
+.container {
+ margin-bottom: 4rem;
 }
 
 @media (min-width: 800px) {
