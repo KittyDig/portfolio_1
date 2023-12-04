@@ -186,6 +186,11 @@ nav a {
     margin-bottom: 2rem;
 }
 
+.category-links, .category-links:hover {
+    text-decoration: none;
+    color: #000;
+}
+
 @media (min-width: 800px) {
     .blog-post {
         max-width: 40%;
