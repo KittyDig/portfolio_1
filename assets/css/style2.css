@@ -164,6 +164,11 @@ nav a {
     opacity: 1;
 }
 
+.category-link:hover .category-image,
+.category-link.touch .category-image {
+    filter: none;
+}
+
 /* Style the blogposts */
 .blogs {
     display: flex;
