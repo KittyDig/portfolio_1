@@ -34,7 +34,7 @@ This website was created as a website for a fictional Mindfulness studio with cl
 ## User Experience
 
 ### User Stories
-For users who were new to this site, I wanted it to be intuitive and easy to navigate, with clearly labelled 
+For users who were new to this site, I wanted it to be intuitive and easy to navigate, with a clearly labelled navbar as to not overwhelm new users.
 
 ### Design
 
