@@ -1,6 +1,6 @@
 # Project 1 Meditation, Mindfulness & Yoga website
 
-This website was created as a website for a fictional Mindfulness studio with classes available both online and offline. It's main target audience is for women aged between 18-45, but the website is available for anyone to use.
+This website was created as a website for a fictional Mindfulness studio with classes available both online and offline. It's main target audience is for women aged between 18-45 who are new or beginning their journey into self-improvement, but the website is available for anyone to use. The website was made to help introduce people to the benefits of taking care of yourself, whether that's through mindfulness, meditation or yoga, for those who want to stay more active.
 
 ## Table of Contents
 - [User Experience](#user-experience)
@@ -33,9 +33,8 @@ This website was created as a website for a fictional Mindfulness studio with cl
 
 ## User Experience
 
-
 ### User Stories
-
+For users who were new to this site, I wanted it to be intuitive and easy to navigate, with clearly labelled 
 
 ### Design
 
@@ -44,7 +43,7 @@ This website was created as a website for a fictional Mindfulness studio with cl
 
 
 ### Navigation Bar
-
+To keep the nav bar neat, I kept the options to a minimum as to not overwhelm the user
 
 ### Landing Page
 
