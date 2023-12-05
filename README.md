@@ -1,39 +1,112 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Project 1 Meditation, Mindfulness & Yoga website
 
-Welcome,
+This website was created as a website for a fictional Mindfulness studio with classes available both online and offline. It's main target audience is for women aged between 18-45, but the website is available for anyone to use.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
+- [User Experience](#user-experience)
+    - [User Stories](#user-stories)
+    - [Design](#design)
+- [Features](#features)
+    - [Navigation Bar](#navigation-bar)
+    - [Landing Page](#landing-page)
+    - [Footer](#footer)
+    - [About Us](#about-us)
+    - [Categories](#categories)
+    - [Meditation/Mindfulness/Yoga](#meditationmindfulnessyoga)
+    - [Get Involved](#get-involved)
+    - [Contact](#contact)
+- [Responsiveness](#responsiveness)
+- [Features to Implement](#features-to-implement)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Validator](#validator)
+- [Lighthouse](#lighthouse)
+- [Accessibility](#accessibility)
+- [Bugs/Issues](#bugs-issues)
+  - [Fixed](#fixed)
+  - [Unfixed](#unfixed)
+- [Deployment](#deployment)
+- [Credits](#credits)
+    - [Media](#media)
+    - [Content](#content)
+    - [Code](#code)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## User Experience
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### User Stories
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Design
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
 
-`http_server`
+## Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Navigation Bar
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+### Landing Page
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Footer
 
----
 
-Happy coding!
+### About Us
+
+
+### Categories
+
+
+### Meditation/Mindfulness/Yoga
+
+
+### Get Involved
+
+
+### Contact
+
+
+## Responsiveness
+
+
+## Features to Implement
+
+
+## Technologies Used
+
+
+## Testing
+
+
+## Validator
+
+
+## Lighthouse
+
+
+## Accessibility
+
+
+## Bugs/Issues
+
+
+### Fixed
+
+
+### Unfixed
+
+
+## Deployment
+
+
+## Credits
+
+
+### Media
+
+
+### Content
+
+
+### Code
