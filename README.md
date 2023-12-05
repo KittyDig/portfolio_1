@@ -40,7 +40,7 @@ This website was created as a website for a fictional Mindfulness studio with cl
 - I also wanted the site to be not too simplistic, and to show any major updates to returning users, such as new featured techniques or new classes.
 
 ### Design
-![Wireframes](readme/Wireframes.png)
+![Wireframes](README/Wireframes.png)
 - The wireframes were developed using Balsamiq, this tool made it easy to visualise how I wanted the website to look before I began coding. I focused mainly on what it would look like in app form as I was building a mobile-first website.
 - The palette was chosen based on earthy colours as this reflects the natural themes that surround the modern wellness movement.
 
