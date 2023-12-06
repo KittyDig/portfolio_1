@@ -8,6 +8,7 @@ This website was created as a website for a fictional Mindfulness studio with cl
 ## Table of Contents
 - [User Experience](#user-experience)
     - [User Stories](#user-stories)
+    - [Persona](#persona)
     - [Design](#design)
 - [Features](#features)
     - [Navigation Bar](#navigation-bar)
@@ -37,8 +38,13 @@ This website was created as a website for a fictional Mindfulness studio with cl
 ## User Experience
 
 ### User Stories
-- For users who were new to this site, I wanted it to be intuitive and easy to navigate, with a clearly labelled navbar as to not overwhelm new users.
+- For users who were new to this site, I wanted it to be intuitive and easy to navigate, with a clearly labeled navbar to not overwhelm new users.
 - I also wanted the site to be not too simplistic, and to show any major updates to returning users, such as new featured techniques or new classes.
+
+## Persona
+- The persona I had in mind as the ideal user of this site was a 26-year-old woman who had heard of these practices but had not used any of them before.
+- Her problem statement was 'I want to get more involved with mindfulness, yoga, and meditation, but I don't know where to start.'
+- This website gives her all of the tools needed to get involved, whether this is online on her own, or in a group setting, she can get work at her own pace.
 
 ### Design
 ![Wireframes](README/Wireframes.png)
@@ -56,15 +62,15 @@ This website was created as a website for a fictional Mindfulness studio with cl
 
 ### Landing Page
 - The landing page gives the user the new / featured techniques of the week, and this would change every week, to keep returning visitors entertained and updated on new happenings.
-- It encapsulates the theme of the website in one page: straight to the point learning about mindfulness, yoga and meditation.
--It incorperates using hovering over the image to reveal the name of the technique to reflect discovery as the user embarks on a self-discovery journey.
+- It encapsulates the theme of having a straight-to-the-point page: straight to the point learning about mindfulness, yoga, and meditation.
+-It incorporates using hovering over the image to reveal the name of the technique to reflect discovery as the user embarks on a self-discovery journey.
 
 ### Footer
-- The footer containts the name of the company and the copyright.
+- The footer contains the name of the company and the copyright.
 - I chose not to put any more information in the footer as I wanted it to be a sticky footer and I did not want it taking up too much space, all needed information can be found in the navbar.
 
 ### About Us
-- The about us page gives the user all of the required information about the website and what it is used for.
+- The About Us page gives the user all of the required information about the website and what it is used for.
 - It gives the reasons this website is better than others and why the user should continue browsing this site.
 
 ### Explore Categories
@@ -83,7 +89,7 @@ This website was created as a website for a fictional Mindfulness studio with cl
 ![Contact us](README/contactus.png)
 
 ## Responsiveness
-- This website was built as mobile first, so it is very responsive for all pages down to 260px accross.
+- This website was built as mobile-first, so it is very responsive for all pages down to 260px across.
 - The use of media queries made this easier to keep responsiveness across different device types. 
 
 ## Features to Implement
