@@ -23,6 +23,7 @@ This website was created as a website for a fictional Mindfulness studio with cl
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Validator](#validator)
+- [Lighthouse](#lighthouse)
 - [Accessibility](#accessibility)
 - [Bugs/Issues](#bugs-issues)
   - [Fixed](#fixed)
@@ -107,6 +108,16 @@ This website was created as a website for a fictional Mindfulness studio with cl
 ![HTML validator](README/htmlVal.png)
 ![CSS validator](README/cssVal.png)
 
+## Lighthouse
+- I tested the website through Lighthouse for both mobile and desktop, they both received good results
+
+![Mobile Lighthouse](README/mobileLighthouse.png)
+
+*Mobile*
+
+![Desktop Lighthouse](README/desktopLighthouse.png)
+
+*Desktop*
 ## Accessibility
 - I tested my website through [WAVE](https://wave.webaim.org/) and it passed with no errors.
 ![WAVE test](README/wave.png)
@@ -119,18 +130,20 @@ This website was created as a website for a fictional Mindfulness studio with cl
 
 ## Deployment
 - The site was deployed using [Github Pages](https://pages.github.com/)
+- Whenever I made a change to the code, I added the changes to the repository by using the commands:
+    - 'git init' to initially create the directory where all the code will be pushed.
+    - 'git add .' to stage all changes to the branch I was working on.
+    - 'git commit -m "..."' to commit the changes and add a relevant comment.
+    - 'git push' to push all of the new changes to the repository.
 - The live website link is [here](https://kittydig.github.io/portfolio_1/index.html)
 ## Credits
 
 ### Media
 - All media was taken from [Pexels](https://www.pexels.com/).
 
-### Content
-- [ChatGPT](https://chat.openai.com/) was used purely to create content and I edited it to fit the website better.
-
 ### Code
 - I used this as the navbar template: https://getbootstrap.com/docs/4.0/components/navbar/
-- I referenced Stack overflow for the JavaScript, specifically [this post](https://stackoverflow.com/questions/54681327/how-to-create-a-sticky-navbar-css-and-javascript).
+- I referenced Stack overflow for the sticky navbar JavaScript, specifically [this post](https://stackoverflow.com/questions/54681327/how-to-create-a-sticky-navbar-css-and-javascript).
 
 ## Acknowledgements
 Thank you to my mentor Spencer Barriball for his support and guidance!
