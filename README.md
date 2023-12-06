@@ -44,7 +44,7 @@ This website was created as a website for a fictional Mindfulness studio with cl
 ## Persona
 - The persona I had in mind as the ideal user of this site was a 26-year-old woman who had heard of these practices but had not used any of them before.
 - Her problem statement was 'I want to get more involved with mindfulness, yoga, and meditation, but I don't know where to start.'
-- This website gives her all of the tools needed to get involved, whether this is online on her own, or in a group setting, she can get work at her own pace.
+- This website gives her all of the tools needed to get involved, whether this is online on her own, or in a group setting, she can work at her own pace.
 
 ### Design
 ![Wireframes](README/Wireframes.png)
